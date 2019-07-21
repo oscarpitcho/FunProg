@@ -1,0 +1,15 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E040] Syntax Error: /mnt/Shared/prog/6-anagrams-oscarpitcho/src/main/scala/forcomp/Anagrams.scala:41:2 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m41 |[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m   |  [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |  [31m';'[0m expected, but [31m'}'[0m found[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E040] Syntax Error: /mnt/Shared/prog/6-anagrams-oscarpitcho/src/main/scala/forcomp/Anagrams.scala:187:1 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m187 |[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m    | [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    | [31m'}'[0m expected, but eof found[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E007] Type Mismatch Error: /mnt/Shared/prog/6-anagrams-oscarpitcho/src/main/scala/forcomp/Anagrams.scala:40:93 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m40 |[0m    [33mval[0m [36mword[0m: [35mString[0m = (s map(_.toLowerCase)).foldLeft([31m""[0m)((x: [35mString[0m, y: [35mString[0m) [35m=>[0m x concat) y)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                                                             [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                              found:    [1m[31mString[0m[1m[31m [0m[1m[31m=[0m[1m[31m>[0m[1m[31m [0mString[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                              required: String[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                              [0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

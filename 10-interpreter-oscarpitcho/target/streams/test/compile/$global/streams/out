@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /mnt/Shared/prog/10-interpreter-oscarpitcho/src/test/scala/interpreter/LispSuite.scala:76:31 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m76 |[0m     assertEquals([31m24[0m, evaluate(expr6))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                               [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                               not found: expr6[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

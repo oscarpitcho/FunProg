@@ -1,0 +1,41 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /mnt/Shared/prog/5-huffman-coding-oscarpitcho/src/test/scala/patmat/HuffmanSuite.scala:7:9 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m7 |[0m  [33mimport[0m [35mHuffman[0m._[0m
+[0m[[0m[31merror[0m] [0m[0m  |         [31m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |         not found: Huffman[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E049] Reference Error: /mnt/Shared/prog/5-huffman-coding-oscarpitcho/src/test/scala/patmat/HuffmanSuite.scala:17:6 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m17 |[0m      assertEquals([31m5[0m, weight(t1))[0m
+[0m[[0m[31merror[0m] [0m[0m   |      [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |     reference to `assertEquals` is ambiguous[0m
+[0m[[0m[31merror[0m] [0m[0m   |     it is both imported by name by import org.junit.Assert.assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0m   |     and imported subsequently by import <error not found: Huffman>._[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E049] Reference Error: /mnt/Shared/prog/5-huffman-coding-oscarpitcho/src/test/scala/patmat/HuffmanSuite.scala:22:6 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m22 |[0m      assertEquals([35mList[0m([31m'a'[0m,[31m'b'[0m,[31m'd'[0m), chars(t2))[0m
+[0m[[0m[31merror[0m] [0m[0m   |      [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |     reference to `assertEquals` is ambiguous[0m
+[0m[[0m[31merror[0m] [0m[0m   |     it is both imported by name by import org.junit.Assert.assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0m   |     and imported subsequently by import <error not found: Huffman>._[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E049] Reference Error: /mnt/Shared/prog/5-huffman-coding-oscarpitcho/src/test/scala/patmat/HuffmanSuite.scala:26:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m26 |[0m    assertEquals([35mList[0m([31m'h'[0m, [31m'e'[0m, [31m'l'[0m, [31m'l'[0m, [31m'o'[0m, [31m','[0m, [31m' '[0m, [31m'w'[0m, [31m'o'[0m, [31m'r'[0m, [31m'l'[0m, [31m'd'[0m), string2Chars([31m"hello, world"[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |    reference to `assertEquals` is ambiguous[0m
+[0m[[0m[31merror[0m] [0m[0m   |    it is both imported by name by import org.junit.Assert.assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0m   |    and imported subsequently by import <error not found: Huffman>._[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E049] Reference Error: /mnt/Shared/prog/5-huffman-coding-oscarpitcho/src/test/scala/patmat/HuffmanSuite.scala:30:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m30 |[0m    assertEquals([35mList[0m([35mLeaf[0m([31m'e'[0m,[31m1[0m), [35mLeaf[0m([31m't'[0m,[31m2[0m), [35mLeaf[0m([31m'x'[0m,[31m3[0m)), makeOrderedLeafList([35mList[0m(([31m't'[0m, [31m2[0m), ([31m'e'[0m, [31m1[0m), ([31m'x'[0m, [31m3[0m))))[0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |    reference to `assertEquals` is ambiguous[0m
+[0m[[0m[31merror[0m] [0m[0m   |    it is both imported by name by import org.junit.Assert.assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0m   |    and imported subsequently by import <error not found: Huffman>._[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E049] Reference Error: /mnt/Shared/prog/5-huffman-coding-oscarpitcho/src/test/scala/patmat/HuffmanSuite.scala:36:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m36 |[0m    assertEquals([35mList[0m([35mFork[0m([35mLeaf[0m([31m'e'[0m,[31m1[0m),[35mLeaf[0m([31m't'[0m,[31m2[0m),[35mList[0m([31m'e'[0m, [31m't'[0m),[31m3[0m), [35mLeaf[0m([31m'x'[0m,[31m4[0m)), combine(leaflist))[0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |    reference to `assertEquals` is ambiguous[0m
+[0m[[0m[31merror[0m] [0m[0m   |    it is both imported by name by import org.junit.Assert.assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0m   |    and imported subsequently by import <error not found: Huffman>._[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E049] Reference Error: /mnt/Shared/prog/5-huffman-coding-oscarpitcho/src/test/scala/patmat/HuffmanSuite.scala:42:6 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m42 |[0m      assertEquals([31m"ab"[0m.toList, decode(t1, encode(t1)([31m"ab"[0m.toList)))[0m
+[0m[[0m[31merror[0m] [0m[0m   |      [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |     reference to `assertEquals` is ambiguous[0m
+[0m[[0m[31merror[0m] [0m[0m   |     it is both imported by name by import org.junit.Assert.assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0m   |     and imported subsequently by import <error not found: Huffman>._[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

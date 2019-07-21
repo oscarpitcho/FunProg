@@ -1,0 +1,16 @@
+launchIDE
+exit
+launchIDE
+test
+launchIDE
+test
+makeSubmission
+packageSubmission
+repl
+console
+test
+exit
+test
+packageSubmission
+launchIDE
+test

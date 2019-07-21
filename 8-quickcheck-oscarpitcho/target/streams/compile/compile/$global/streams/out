@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E007] Type Mismatch Error: /mnt/Shared/prog/8-quickcheck-oscarpitcho/src/main/scala/quickcheck/QuickCheck.scala:15:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m  } [33myield[0m insert(x, h)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    found:    Any(h)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    required: QuickCheckHeap.this.H[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    [0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,65 @@
+sbt launchIDE
+launchIDE
+compile
+launchIDE
+test
+clear
+empty
+:clear
+help
+empty
+:empty
+:delete
+delete
+test
+tets
+test
+]test
+test
+packageSubmission
+test
+sbt Main
+Main
+ryn
+runm
+run
+(+ 1 2)
+run
++ 1 2
+run
+test
+run
+     (reverse (cdr L) (cons (car L) acc)))run
+run
+    ('if (null? L) acc ('reverse (cdr L) (cons (car L) acc))))
+run
+    ('if (null? L) acc ('reverse (cdr L) (cons (car L) acc))))(def (reverse L acc) ('if (null? L) acc ('reverse (cdr L) (cons (car L) acc))))
+run
+test
+  (def (reverse L acc) ('if (null? L) acc ('reverse (cdr L) (cons (car L) acc))))
+run
+test
+run
+~compile
+test
+test]
+test
+run
+test
+run
+  )run
+run
+  )run
+run
+  (helper mylist 0))
+test
+packageSubmission
+test
+run
+    )test
+test
+launchIDE
+test
+launchIDE
+test
+packageSubmission

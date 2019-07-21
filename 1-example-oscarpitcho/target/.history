@@ -1,0 +1,28 @@
+compile
+test
+launchIDE
+exit
+compile
+test
+launchIDE
+exitr
+exit
+compile
+launchIDE
+console
+test
+~test
+packageSubmission
+~test
+launchIDE
+console
+exit
+ def loop: Booolean = loop
+def loop: Boolean = loop
+console
+compile
+test
+launchIDE
+test
+packageSubmission
+exit

@@ -1,0 +1,62 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(interpreter.LispSuite, sbt.ForkMain$AnnotatedFingerscan@67864e86, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar1[0m finished, took 1.363 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar3[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdefSugar4[0m finished, took 0.025 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36maddition[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36maddition[0m finished, took 0.048 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar1[0m finished, took 0.03 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar2[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar3[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar4[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mcaseSugar5[0m finished, took 0.009 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36msugar1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36msugar1[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp1[0m finished, took 0.065 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp2[0m finished, took 0.008 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp3[0m finished, took 0.015 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp4[0m finished, took 0.014 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mrebuildListLisp5[0m finished, took 0.015 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr2test[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr2test[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr3test[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr3test[0m finished, took 0.007 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr4test[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr4test[0m finished, took 0.008 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr5test[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mexpr5test[0m finished, took 0.026 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp1[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp2[0m finished, took 0.013 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp3[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp4[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest interpreter.[33mLispSuite[0m.[36mdifferencesLisp5[0m finished, took 0.026 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 25 total, 1.736s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 25 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 25, Failed 0, Errors 0, Passed 25[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	interpreter.LispSuite[0m

@@ -1,0 +1,17 @@
+launchIDE
+test
+compile
+test
+exit
+test
+launchIDE
+run Huffman
+run Hffman
+test
+run HuffmanMain
+test
+launchIDE
+packageSubmission
+launchIDE
+compile
+packageSubmission

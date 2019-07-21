@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m[34m-- Warning: /mnt/Shared/prog/2-recursion-oscarpitcho/src/main/scala/recfun/Main.scala:33:8 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[31m33 |[0m        [31m1[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |        [31m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |        a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
